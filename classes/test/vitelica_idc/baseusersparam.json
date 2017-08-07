@@ -1,0 +1,49 @@
+[
+  {
+    "name": "dtone",
+    "line": "0"
+  },
+  {
+    "name": "dt",
+    "line": "1"
+  },
+  {
+    "name": "starfirstone",
+    "line": "1"
+  },
+  {
+    "name": "starsecondone",
+    "line": "1"
+  },
+
+  [
+    {
+      "name": "qdtone",
+      "line": "1",
+      "phone": "79089683798",
+      "manager": "50",
+      "piram": "q"
+    },
+    {
+      "name": "qdt",
+      "line": "1",
+      "phone": "79089683799",
+      "manager": "51",
+      "piram": "q"
+    },
+    {
+      "name": "qstarfirstone",
+      "line": "1",
+      "phone": "79089683800",
+      "manager": "51",
+      "piram": "q"
+    },
+    {
+      "name": "qstarfirsttwo",
+      "line": "1",
+      "phone": "79089683801",
+      "manager": "51",
+      "piram": "q"
+    }
+    ]
+  ]

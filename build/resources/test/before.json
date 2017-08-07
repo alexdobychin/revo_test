@@ -1,0 +1,42 @@
+[
+  {
+    "check": 0,
+    "qvality":"enabled"
+
+  },
+  {
+    "check": 1,
+    "qvality":"enabled"
+
+  },
+  {
+    "check": 2,
+    "qvality":"Master"
+  },
+  {
+    "check": 3,
+    "qvality":"Master"
+  },
+  {
+    "check": 4,
+    "qvality":"Master_Elite"
+
+
+  },
+  {
+    "check":5,
+    "qvality":"Master_Elite"
+
+
+  },
+  {
+    "check": 6,
+    "qvality":"Star"
+
+  },
+  {
+    "check":7,
+    "qvality":"Star"
+
+  }
+]

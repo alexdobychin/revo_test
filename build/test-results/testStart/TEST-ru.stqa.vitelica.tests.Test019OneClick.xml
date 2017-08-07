@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.vitelica.tests.Test019OneClick" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-10T14:32:14" hostname="DESKTOP-NOQTS1M" time="30.369">
+  <properties/>
+  <testcase name="One_click" classname="ru.stqa.vitelica.tests.Test019OneClick" time="30.369"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed) on port 10508
+Only local connections are allowed.
+мар 10, 2017 5:32:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+мар 10, 2017 5:32:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

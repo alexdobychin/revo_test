@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.vitelica.tests.Test016Green" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-10T14:29:43" hostname="DESKTOP-NOQTS1M" time="77.283">
+  <properties/>
+  <testcase name="Check_zakaz" classname="ru.stqa.vitelica.tests.Test016Green" time="39.445"/>
+  <testcase name="Check_zakaz_1" classname="ru.stqa.vitelica.tests.Test016Green" time="36.947"/>
+  <system-out><![CDATA[1
+1
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed) on port 34367
+Only local connections are allowed.
+мар 10, 2017 5:29:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+мар 10, 2017 5:29:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Starting ChromeDriver 2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed) on port 33579
+Only local connections are allowed.
+мар 10, 2017 5:30:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+мар 10, 2017 5:30:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

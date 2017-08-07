@@ -1,0 +1,132 @@
+[
+  {
+  "name": "dtone",
+  "line": 0,
+  "qvality": "DIAMOND_TUTOR_1"
+  },
+  {
+    "name": "stardtz",
+    "line": 1,
+    "qvality": "STAR"
+  },
+  {
+    "name": "stardtx",
+    "line": 2,
+    "qvality": "STAR"
+  },
+  {
+    "name": "stardtc",
+    "line": 3,
+    "qvality": "STAR"
+  },
+  {
+    "name": "stardtv",
+    "line": 4,
+    "qvality": "STAR"
+  },
+  {
+    "name": "dt",
+    "line": 10,
+    "qvality": "DIAMOND_TUTOR"
+  },
+  {
+    "name": "starseventh",
+    "line": 11,
+    "qvality": "STAR"
+  },
+  {
+    "name": "stareighth",
+    "line": 12,
+    "qvality": "STAR"
+  },
+  {
+    "name": "starninth",
+    "line": 13,
+    "qvality": "STAR"
+  },
+  {
+    "name": "startenth",
+    "line": 14,
+    "qvality": "STAR"
+  },
+  {
+    "name": "starelev",
+    "line": 15,
+    "qvality": "STAR"
+  },
+  {
+    "name": "ds",
+    "line": 20,
+    "qvality": "DIAMOND_STAR"
+  },
+  {
+    "name": "startw",
+    "line": 21,
+    "qvality": "STAR"
+  },
+  {
+    "name": "starthree",
+    "line": 22,
+    "qvality": "STAR"
+  },
+  {
+    "name": "starfort",
+    "line": 24,
+    "qvality": "STAR"
+  },
+  {
+    "name": "twostar",
+    "line": 30,
+    "qvality": "2_STAR"
+  },
+  {
+    "name": "starfifteen",
+    "line": 31,
+    "qvality": "STAR"
+  },
+  {
+    "name": "starsixteen",
+    "line": 32,
+    "qvality": "STAR"
+  },
+  {
+    "name": "onestar",
+    "line": 40,
+    "qvality": "STAR"
+  },
+  {
+    "name": "starseventeen",
+    "line": 41,
+    "qvality": "STAR"
+  },
+  {
+    "name": "stareithteen",
+    "line": 42,
+    "qvality": "STAR"
+  },
+  {
+    "name": "star",
+    "line": 50,
+    "qvality": "STAR"
+  },
+  {
+    "name": "masterelite",
+    "line": 60,
+    "qvality": "MASTER_ELITE"
+  },
+  {
+    "name": "master",
+    "line": 70,
+    "qvality": "MASTER"
+  },
+  {
+    "name": "bronzemaster",
+    "line": 80,
+    "qvality": "bronzemaster"
+  },
+  {
+    "name": "bronzepartner",
+    "line": 90,
+    "qvality": "bronzemaster"
+  }
+  ]

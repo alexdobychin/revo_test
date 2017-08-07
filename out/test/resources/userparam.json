@@ -1,0 +1,34 @@
+[
+  {
+    "firstname": "Ольга",
+    "lastname": "Иванова",
+    "maname": "Ивановна",
+    "phone": "79259614992",
+    "manager": "1",
+    "id": "53180"
+  },
+  {
+    "name": "silverexdtzoqmhtzedgkk",
+    "line": 1,
+    "qvality": "SILVER_EXPERT",
+    "phone": "79259614993",
+    "manager": "5799",
+    "id": "53181"
+  },
+  {
+    "name": "silverexdtxrcdphhsltzf",
+    "line": 2,
+    "qvality": "SILVER_EXPERT",
+    "phone": "79259614994",
+    "manager": "5799",
+    "id": "53182"
+  },
+  {
+    "name": "silverexdtckaxwfpstobqjevcqbjslar",
+    "line": 3,
+    "qvality": "SILVER_EXPERT",
+    "phone": "79259614995",
+    "manager": "5799",
+    "id": "53183"
+  }
+  ]

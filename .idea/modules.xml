@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/revo.iml" filepath="$PROJECT_DIR$/revo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/revo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/revo_main.iml" group="revo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/revo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/revo_test.iml" group="revo" />
+    </modules>
+  </component>
+</project>

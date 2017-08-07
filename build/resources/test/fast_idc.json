@@ -1,0 +1,37 @@
+[
+  {
+    "name": "dvuhsot",
+    "line": 0,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "oneidc",
+    "line": 11,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "twoidc",
+    "line": 12,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "threeidc",
+    "line": 13,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "fouridc",
+    "line": 14,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "fiveidc",
+    "line": 15,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "sixidc",
+    "line": 15,
+    "qvality": "SILVER_PARTNER"
+  }
+]

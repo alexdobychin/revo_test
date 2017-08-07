@@ -1,0 +1,58 @@
+[
+
+  {
+    "first_name":"Star_slave_1_",
+    "last_name":"slave",
+    "manager": true,
+    "his_manager":"Master",
+    "phone": 7999313
+
+
+  },
+  {
+    "first_name":"Master_Elite_slave_1_",
+    "last_name":"slave",
+    "manager": true,
+    "his_manager":"Star_slave_1_",
+    "phone": 7999223
+
+
+  },
+  {
+    "first_name":"Master_slave_1_",
+    "last_name":"slave",
+    "manager": true,
+    "his_manager":"Master_Elite_slave_1_",
+    "phone": 7999133
+
+
+  },
+
+  {
+    "first_name":"Client_Star",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Star",
+    "phone": 7903305
+
+
+  },
+  {
+    "first_name":"Client_Master_Elite",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Master_Elite",
+    "phone": 7903205
+
+
+  },
+  {
+    "first_name":"Client_Master",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Master",
+    "phone": 7903105
+
+
+  }
+]

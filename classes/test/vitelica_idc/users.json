@@ -1,0 +1,106 @@
+[
+  {
+  "first_name":"Diamond_Star",
+  "last_name":"test",
+  "manager": true,
+  "his_manager":"pv_master",
+  "phone": 7903603
+
+
+},
+  {
+    "first_name":"2_Star",
+    "last_name":"test",
+    "manager": true,
+    "his_manager":"Diamond_Star",
+    "phone": 7903503
+  },
+  {
+    "first_name":"1_Star",
+    "last_name":"test",
+    "manager": true,
+    "his_manager":"2_Star",
+    "phone": 7903403
+
+
+  },
+  {
+    "first_name":"Star",
+    "last_name":"test",
+    "manager": true,
+    "his_manager":"1_Star",
+    "phone": 7903303
+
+
+  },
+  {
+    "first_name":"Master_Elite",
+    "last_name":"test",
+    "manager": true,
+    "his_manager":"Star",
+    "phone": 7903203
+
+
+  },
+  {
+    "first_name":"Master",
+    "last_name":"test",
+    "manager": true,
+    "his_manager":"Master_Elite",
+    "phone": 7903103
+
+
+  },
+  {
+    "first_name":"Client_Diamond_Star",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Diamond_Star",
+    "phone": 7903605
+
+
+  },
+  {
+    "first_name":"Client_2_Star",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"2_Star",
+    "phone": 7903505
+  },
+  {
+    "first_name":"Client_1_Star",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"1_Star",
+    "phone": 7903405
+
+
+  },
+  {
+    "first_name":"Client_Star",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Star",
+    "phone": 7903305
+
+
+  },
+  {
+    "first_name":"Client_Master_Elite",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Master_Elite",
+    "phone": 7903205
+
+
+  },
+  {
+    "first_name":"Client_Master",
+    "last_name":"test",
+    "manager": false,
+    "his_manager":"Master",
+    "phone": 7903105
+
+
+  }
+]

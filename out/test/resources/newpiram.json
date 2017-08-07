@@ -1,0 +1,182 @@
+[
+  {
+    "name": "platinummaster",
+    "line": 0,
+    "qvality": "PLATINUM_MASTER"
+  },
+  {
+    "name": "silverexdtz",
+    "line": 1,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexdtx",
+    "line": 2,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexdtc",
+    "line": 3,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexdtv",
+    "line": 4,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexdtb",
+    "line": 5,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silvermmmm",
+    "line": 6,
+    "qvality": "SILVER_MASTER"
+  },
+  {
+    "name": "dno",
+    "line": 7,
+    "qvality": "dno"
+  },
+  {
+    "name": "goldpro",
+    "line": 10,
+    "qvality": "GOLD_PROFESSIONAL"
+  },
+  {
+    "name": "silverexseventh",
+    "line": 11,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexeigth",
+    "line": 12,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexeghth",
+    "line": 13,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexeigihth",
+    "line": 14,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexeigihh",
+    "line": 15,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silvermasterex",
+    "line": 16,
+    "qvality": "SILVER_MASTER"
+  },
+  {
+    "name": "dnoO",
+    "line": 17,
+    "qvality": "dno"
+  },
+  {
+    "name": "goldexpert",
+    "line": 20,
+    "qvality": "GOLD_EXPERT"
+  },
+  {
+    "name": "silverextw",
+    "line": 21,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexthree",
+    "line": 22,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverexthee",
+    "line": 23,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silvermassere",
+    "line": 24,
+    "qvality": "SILVER_MASTER"
+  },
+  {
+    "name": "dnoOO",
+    "line": 27,
+    "qvality": "dno"
+  },
+  {
+    "name": "goldmaster",
+    "line": 30,
+    "qvality": "GOLD_MASTER"
+  },
+  {
+    "name": "silverexfifteen",
+    "line": 31,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silvehhafd",
+    "line": 32,
+    "qvality": "SILVER_MASTER"
+  },
+  {
+    "name": "dnoOOO",
+    "line": 33,
+    "qvality": "dno"
+  },
+  {
+    "name": "goldpartner",
+    "line": 40,
+    "qvality": "GOLD_PARTNER"
+  },
+  {
+    "name": "silveMMMp",
+    "line": 41,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "silveMMM",
+    "line": 42,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "silveMMM",
+    "line": 43,
+    "qvality": "SILVER_MASTER"
+  },
+  {
+    "name": "dnoOOMM",
+    "line": 44,
+    "qvality": "dno"
+  },
+  {
+    "name": "silverex",
+    "line": 50,
+    "qvality": "SILVER_EXPERT"
+  },
+  {
+    "name": "silverelite",
+    "line": 60,
+    "qvality": "SILVER_MASTER"
+  },
+  {
+    "name": "silverpart",
+    "line": 70,
+    "qvality": "SILVER_PARTNER"
+  },
+  {
+    "name": "bromaster",
+    "line": 80,
+    "qvality": "BRONZE_MASTER"
+  },
+  {
+    "name": "bropar",
+    "line": 90,
+    "qvality": "BRONZE_PARTNER"
+  }
+]
