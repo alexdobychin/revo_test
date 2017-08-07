@@ -38,7 +38,7 @@ public class Test001Zayavka extends TestBase {
     //проверяем некоректные значения дат, смотрим, что появляется сообщение об ошибке
 
     @Test
-    public void zayavka_nevalid() throws InterruptedException, IOException {
+    public void zayavka_nevalid2() throws InterruptedException, IOException {
 
         String summa =  "2000";
         String pirm = "Ольга" + app.block2().getRandRangeLowlettersrus(1,30);
