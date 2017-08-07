@@ -1,8 +1,6 @@
 package ru.stqa.revo.tests;
 
-import com.google.gson.*;
-import com.google.gson.reflect.TypeToken;
-import com.sun.org.glassfish.gmbal.Description;
+
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;

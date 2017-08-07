@@ -1,37 +1,8 @@
 package ru.stqa.revo.appmanager;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.reflect.TypeToken;
-import okhttp3.OkHttpClient;
-import okhttp3.Request;
-import okhttp3.Response;
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.NameValuePair;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.entity.UrlEncodedFormEntity;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.impl.client.HttpClientBuilder;
-import org.apache.http.message.BasicNameValuePair;
-import org.apache.http.util.EntityUtils;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
-import org.openqa.selenium.By;
-import ru.stqa.revo.model.Qvality;
-import ru.stqa.revo.model.UsersCreateData;
 
-import javax.xml.bind.DatatypeConverter;
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
 import java.util.Random;
-import java.util.stream.Collectors;
+
 
 /**
  * Created by Alexandro on 23.01.2017.
@@ -62,7 +33,7 @@ public class Star5 extends HelperBase {
 
 
     public String getRandomphone() {
-        String part ="8925"; //1234567
+        String part ="8909"; //1234567
         String part2 ="";
         String partm;
         String phone;

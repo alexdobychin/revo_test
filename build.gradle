@@ -18,6 +18,9 @@ dependencies {
     compile 'mysql:mysql-connector-java:6.0.5'
     compile 'org.hibernate:hibernate-core:5.2.3.Final'
     compile 'com.browserstack:browserstack-local-java:1.0.0'
+    compile 'com.squareup.okhttp3:okhttp:3.8.0'
+
+
 
 
 }
