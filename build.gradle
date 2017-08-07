@@ -19,6 +19,7 @@ dependencies {
     compile 'org.hibernate:hibernate-core:5.2.3.Final'
     compile 'com.browserstack:browserstack-local-java:1.0.0'
     compile 'com.squareup.okhttp3:okhttp:3.8.0'
+    compile group: 'org.glassfish.gmbal', name: 'gmbal', version: '4.0.0-b001'
     
 
 
