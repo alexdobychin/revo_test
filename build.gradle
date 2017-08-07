@@ -19,7 +19,7 @@ dependencies {
     compile 'org.hibernate:hibernate-core:5.2.3.Final'
     compile 'com.browserstack:browserstack-local-java:1.0.0'
     compile 'com.squareup.okhttp3:okhttp:3.8.0'
-    compile 'io.github.http-builder-ng:http-builder-ng-okhttp:0.16.1'
+    compile group: 'io.github.http-builder-ng', name: 'http-builder-ng-okhttp', version: '0.17.0'
 
 
 }
