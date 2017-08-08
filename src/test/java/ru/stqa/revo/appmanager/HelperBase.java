@@ -129,7 +129,7 @@ public class HelperBase {
 
         System.out.println("страница подтверждения");
         File screenshot23 = ((TakesScreenshot) wd).getScreenshotAs(OutputType.FILE);
-        FileUtils.copyFile(screenshot23, new File("src/test/resources/aprove.png"));
+        FileUtils.copyFile(screenshot23, new File("src/test/resources/aprove000.png"));
 
 
         Thread.sleep(5500); //заменить на вейты
@@ -150,6 +150,8 @@ public class HelperBase {
 
         wd.findElement(By.id("capture-btn-grey-loading_btn-first_two_pages-camera-reader")).sendKeys(new File("src//test//resources//1.jpg").getAbsolutePath());
         Thread.sleep(2000);
+        File screenshot232 = ((TakesScreenshot) wd).getScreenshotAs(OutputType.FILE);
+        FileUtils.copyFile(screenshot232, new File("src/test/resources/aprovefina2.png"));
         wd.findElement(By.id("capture-btn-grey-loading_btn-living_addr-camera-reader")).sendKeys(new File("src//test//resources//1.jpg").getAbsolutePath());
         Thread.sleep(2000);
         wd.findElement(By.id("capture-btn-grey-loading_btn-client_with_passport-camera-reader")).sendKeys(new File("src//test//resources//1.jpg").getAbsolutePath());
