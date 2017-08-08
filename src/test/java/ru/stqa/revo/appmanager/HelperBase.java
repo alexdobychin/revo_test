@@ -156,10 +156,10 @@ public class HelperBase {
         Thread.sleep(2000);
 
         wd.findElement(By.cssSelector("#photo_screen > ul > li > button")).click();
-        Thread.sleep(80000);
+        Thread.sleep(10000); //переход на стараницу с подтверждением телефона
 
         System.out.println("подтверждение телф"); //сделать обработку исключения
-        assertEquals(1, 1);
+
 /**
         wd.findElement(By.id("asp_confirm")).click();
         wd.findElement(By.id("confirm_asp_text")).sendKeys("1111");

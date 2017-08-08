@@ -28,7 +28,7 @@ public class Test001Zayavka extends TestBase {
         app.session().zayavka();
         app.session().pokupka_1(zayv);
         //Thread.sleep(2000000);
-
+        assertEquals(1, 1);
 
 
     }
