@@ -158,6 +158,8 @@ public class HelperBase {
         wd.findElement(By.cssSelector("#photo_screen > ul > li > button")).click();
         Thread.sleep(10000);
 
+        System.out.println("подтверждение телф"); //сделать обработку исключения
+/**
         wd.findElement(By.id("asp_confirm")).click();
         wd.findElement(By.id("confirm_asp_text")).sendKeys("1111");
         wd.findElement(By.cssSelector("#confirm_asp_button")).click();
@@ -169,7 +171,7 @@ public class HelperBase {
         File screenshot232 = ((TakesScreenshot) wd).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(screenshot232, new File("src/test/resources/aprovefinal.png"));
 
-
+*/
 
 
 

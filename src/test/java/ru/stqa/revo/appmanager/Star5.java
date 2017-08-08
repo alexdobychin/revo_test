@@ -33,7 +33,7 @@ public class Star5 extends HelperBase {
 
 
     public String getRandomphone() {
-        String part ="8903"; //1234567
+        String part ="8916"; //1234567
         String part2 ="";
         String partm;
         String phone;
